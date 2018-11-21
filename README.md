@@ -1,9 +1,9 @@
 # Interpreter-ST0250-2018-2
  Es un patron, mediador entre lenguajes (interpreta lenguajes).
 # Integrates
-David Sánchez Arboleda
-Mar Sánchez Fernández
-Federico Jaramillo Franco
+- David Sánchez Arboleda
+- Mar Sánchez Fernández
+- Federico Jaramillo Franco
 # Nombre del patron de diseño
 Interpreter
 # Explicacion
